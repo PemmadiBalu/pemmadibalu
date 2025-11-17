@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm BALU PEMMADI</h1>
 <h3 align="center">"A passionate AI developer from India"</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, and SQL, ,learning advanced AI**
+- 🌱 I’m currently learning **HTML, CSS, and SQL,Flask,learning advanced AI**
 
 - 💬 Ask me about **"Ask me about AI, coding, career tips, or anything tech-related!"**
 
